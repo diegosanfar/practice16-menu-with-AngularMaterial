@@ -1,0 +1,32 @@
+.mat-typography {
+  background-color: rgb(27, 19, 9);
+}
+
+form {
+  padding: 0 16px;
+}
+.preco {
+  width: 8em;
+  padding-right: 16px;
+}
+
+.nome {
+  width: 12em;
+}
+
+table {
+  width: 100%;
+  padding: 10px;
+}
+
+.mat-column-preco,
+.mat-column-acoes {
+  text-align: right;
+}
+
+.ng-untouched,
+.ng-pristine,
+.ng-invalid,
+.ng-touched {
+  margin: 0 10px;
+}

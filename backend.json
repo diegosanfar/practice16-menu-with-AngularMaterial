@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "id": 2,
+      "nome": "X-Burguer",
+      "preco": 10.5
+    },
+    {
+      "id": 4,
+      "nome": "X-Picanha",
+      "preco": 14.5
+    },
+    {
+      "id": 5,
+      "nome": "Frango-egg",
+      "preco": 16.5
+    },
+    {
+      "id": 6,
+      "nome": "Egg-frango",
+      "preco": 15.6
+    },
+    {
+      "id": 7,
+      "nome": "Coca-cola lata",
+      "preco": 5.5
+    },
+    {
+      "id": 3,
+      "nome": "Cerveja Skol",
+      "preco": 7.5
+    },
+    {
+      "nome": "X-Zoião",
+      "preco": 20.1,
+      "id": 9
+    }
+  ]
+}
